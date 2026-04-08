@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://memorax.ai/assets/og-image@2x.webp" alt="MemoraX" width="100%">
+  <img src="https://memorax.ai/assets/og-image.webp" alt="MemoraX" width="100%">
 </p>
 
 <h1>MemoraXLabs</h1>
