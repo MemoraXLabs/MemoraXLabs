@@ -68,3 +68,14 @@ MemoraX is available for strategic acquisition:
 For domain, specification, and ownership inquiries:<br>
 <strong>hello@memorax.ai</strong>
 </p>
+
+<hr>
+
+<p>
+<a href="https://memorax.ai">memorax.ai</a> ·
+<a href="https://memorax.ai/memory/">Memory</a> ·
+<a href="https://memorax.ai/long-horizon-intelligence/">Long-horizon intelligence</a> ·
+<a href="https://memorax.ai/why-memory/">Why memory</a> ·
+<a href="https://memorax.ai/spec/">Specification</a> ·
+<a href="https://memorax.ai/acquisition/">Acquisition</a>
+</p>
